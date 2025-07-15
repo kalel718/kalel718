@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalel718
-- 👀 I’m interested in CyberSecurity and Front End Devloper     
+- 👀 I’m interested in CyberSecurity and Web Design    
 - 🌱 I’m currently learning what steps to take to gain the knowledge
 - 💞️ I’m looking to collaborate on ways to become a Web Developer & SOC analyst- if u have any notes or tips-please share-Thank u
 - 📫 How to reach me markkennedy718@gmail.com  
